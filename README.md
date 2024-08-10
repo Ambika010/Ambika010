@@ -1,7 +1,13 @@
 # 💫 About Me:
-🔭 A computer science student, I explore the tech sky,<br>💻 Currently learning front-end technologies, crafting experiences that dazzle and fly,<br>🤝 Looking for colloboration with exciting and fun tech projects, where creativity and innovation thrive,<br>⚡ I'm diving deep into DSA, where algorithms and data structures come alive,<br>🤔 I conquer complexities, and let my problem-solving abilities multiply.
+<div style="overflow: hidden;">
+  <img src="https://github.com/Ambika010/Ambika010/blob/main/p.gif" align="right" alt="coding" width="300" style="margin-left: 20px;"/>
+  🔭 A computer science student, I explore the tech sky,<br>
+  💻 Currently learning front-end technologies, crafting experiences that dazzle and fly,<br>
+  🤝 Looking for collaboration with exciting and fun tech projects, where creativity and innovation thrive,<br>
+  ⚡ I'm diving deep into DSA, where algorithms and data structures come alive,<br>
+  🤔 I conquer complexities, and let my problem-solving abilities multiply.
+</div>
 
-<img src="https://github.com/Ambika010/Ambika010/blob/main/p.gif" align="right" alt="coding" width="400"/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ambiii_ka01) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kumari.ambika0103) 
